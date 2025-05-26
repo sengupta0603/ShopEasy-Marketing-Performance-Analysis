@@ -68,13 +68,7 @@ The analysis leverages real business data, SQL, Python, sentiment analysis, and 
 ## Dashboard Previews
 
 ### Marketing Performance Overview
-![Marketing Performance Overview](images/dashboard_overview.png)
-
-### Social Media Details
-![Social Media Details](images/social_media.png)
-
-### Customer Review Details
-![Customer Review Details](images/customer_reviews.png)
+![Marketing Performance Overview](https://github.com/sengupta0603/ShopEasy-Marketing-Performance-Analysis/blob/main/img1.png)
 
 ---
 
